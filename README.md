@@ -1,5 +1,5 @@
 Chat Recap AI - Your AI Chat Analysis 💌
-Chat Recap AI(https://chatrecapai.org)Can your smart conversation analyzer help you understand the dynamics of your relationship? To help me write, I use these prompts:
+([Chat Recap AI](https://chat-recapai.com))Can your smart conversation analyzer help you understand the dynamics of your relationship? To help me write, I use these prompts:
 
 
 Prompts I wrote
